@@ -34,10 +34,6 @@ background-color: #000;
 	top: 32px;
 }
 
-.header__block:last-child {
-	text-align: right;
-}
-
 .nav {
 	display: flex;
 }
