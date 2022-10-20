@@ -60,100 +60,19 @@ background-color: #000;
 }
 
 
-.one {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 360px;
-	top: 235px;
+.card__block{
+	width: 33.33%;
+	padding: 0 10px;
 }
 
-.two {
-	position: absolute;
-	width: 285px;
+.card__item{
 	border-radius: 20px;
-	left: 665px;
-	top: 235px;
+	padding: 30px
+	width: 285px;
+	height: 285px;
+	color: var(--color-tx);
 }
 
-.three {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 970px;
-	top: 235px;
-}
-
-.four {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 1275px;
-	top: 235px;
-}
-
-.five {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 360px;
-	top: 540px;
-}
-.six {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 665px;
-	top: 540px;
-}
-
-.seven {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 970px;
-	top: 540px;
-}
-
-.eight {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 1275px;
-	top: 540px;
-}
-
-.nine {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 360px;
-	top: 845px;
-}
-
-.ten {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 665px;
-	top: 845px;
-}
-
-.eleven {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 970px;
-	top: 845px;
-}
-
-.twelve {
-	position: absolute;
-	width: 285px;
-	border-radius: 20px;
-	left: 1275px;
-	top: 845px;
-}
 
 .text {
 	position: absolute;
