@@ -59,6 +59,13 @@ background-color: #000;
 	top: 40px;
 }
 
+.card__wrapper{
+	display: grid;
+	grid-gap: 15px;
+	grid-template-columns: repeat(auto-fit, 224px);
+	grid-template-rows: 236px 236px 236px;
+	margin: 40px -10px;
+}
 
 .card__block{
 	width: 33.33%;
