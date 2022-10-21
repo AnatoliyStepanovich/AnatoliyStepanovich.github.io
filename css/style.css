@@ -62,9 +62,9 @@ background-color: #000;
 .card__wrapper{
 	display: grid;
 	grid-gap: 15px;
-	grid-template-columns: repeat(auto-fit, 224px);
-	grid-template-rows: 236px 236px 236px;
-	margin: 40px -10px;
+	grid-template-columns: repeat(auto-fit, 285px);
+	grid-template-rows: 285px 285px 285px;
+	margin: 20px 20px;
 }
 
 .card__block{
