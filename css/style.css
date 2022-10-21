@@ -61,10 +61,10 @@ background-color: #000;
 
 .card__wrapper{
 	display: grid;
-	grid-gap: 15px;
-	grid-template-columns: repeat(auto-fit, 285px);
+	grid-gap: 20px;
+	grid-template-columns: repeat(auto-fit, 200px);
 	grid-template-rows: 285px 285px 285px;
-	margin: 20px 20px;
+	margin: 40px -10px;
 }
 
 .card__block{
