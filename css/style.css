@@ -14,7 +14,6 @@ body {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
-	background-color: #0B061B;
 }
 
 .header {
@@ -26,7 +25,6 @@ background-color: #0B061B;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: #0B061B;
 }
 
 .header__logo {
@@ -35,6 +33,7 @@ background-color: #0B061B;
 	height: 40px;
 	left: 360px;
 	top: 32px;
+	background-color: #0B061B;
 }
 
 .nav {
