@@ -37,6 +37,7 @@ background-color: #000;
 
 .nav {
 	display: flex;
+	background-color: #0B061B;
 }
 
 .nav__link {
