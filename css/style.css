@@ -90,11 +90,6 @@ body {
 	margin-bottom: 20px;
 }
 
-
-.text {
-	
-}
-
 .card__title {
 	position: absolute;
 	width: 245px;
@@ -143,7 +138,9 @@ body {
 }
 
 .qw {
-	clear:left;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .imgv {
@@ -152,8 +149,8 @@ body {
 	height: 6px;
 	left: 4px;
 	top: 7px;
-	display: flex;
-	margin-left:530px;
+	margin-right: 20px;
+	margin-bottom: 15px;
 }
 
 .dob {
@@ -161,10 +158,6 @@ body {
 	text-decoration: none;
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 20px;
-	display: flex;
-	justify-content: center;
-	margin-left: 30px;
 	heidht: 42px;
 	padding-top: 15px;
 	padding-bottom: 15px;
