@@ -1,4 +1,4 @@
-  *,*:before,*:after {
+ *,*:before,*:after {
 	box-sizing: border-box;
 }
 body {
@@ -152,6 +152,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin: 10px;
 }
 
 .input {
@@ -163,11 +164,11 @@ body {
 	border-radius: 10px;
 	padding-left: 20px;
 	font-weight: 500;
-	font-size: 24px;
+	font-size: 16px;
 	color: #000;
 }
 
-.name {
+/*.name {
 	position: relative;
 	color: #B9B9B9;
 	font-weight: 500;
@@ -176,7 +177,7 @@ body {
 	width: 480px;
 	height: 20px;
 	gap: 10px;
-}
+}*/
 
 input:focus {
 	outline: none;
@@ -211,7 +212,7 @@ input:focus {
 	border-radius: 10px;
 	padding-left: 20px;
 	font-weight: 500;
-	font-size: 24px;
+	font-size: 16px;
 	color: #000;
 }
 
@@ -221,7 +222,7 @@ input:focus {
 	height: 60px;
 }
 
-.name2 {
+/*.name2 {
 	position: relative;
 	color: #B9B9B9;
 	font-weight: 500;
@@ -232,8 +233,7 @@ input:focus {
 	width: 480px;
 	height: 20px;
 	gap: 10px;
-
-}
+}*/
 
 input1:focus {
 	outline: none;
@@ -248,7 +248,7 @@ input1:focus {
 	border-radius: 10px;
 	padding-left: 20px;
 	font-weight: 500;
-	font-size: 24px;
+	font-size: 16px;
 	color: #000;
 }
 
@@ -256,7 +256,7 @@ input2:focus {
 	outline: none;
 }
 
-.name3 {
+/*.name3 {
 	position: relative;
 	color: #B9B9B9;
 	font-weight: 500;
@@ -267,7 +267,7 @@ input2:focus {
 	gap: 10px;
 	padding-left: 20px;
 	padding-top: 5px;
-}
+}*/
 
 .ram45 {
 	padding-top: 20px;
@@ -319,7 +319,7 @@ input2:focus {
 	margin-left: 12px;
 }
 
-.ram6 {
+/*.ram6 {
 	background: #9747FF;
 	color: #9747FF;
 	opacity: 0.3;
@@ -327,15 +327,15 @@ input2:focus {
 	border-radius: 10px;
 	margin-left: 40px;
 	margin-right: 40px;
-}
+}*/
 
-.qw1 {
+/*.qw1 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding: 15px 176px 15px 176px;
 	margin: 15px 200 px 15px 200px;
-}
+}*/
 
 .name6 {
 	color: #fff;
@@ -345,6 +345,32 @@ input2:focus {
 	height: 20px;
 	gap: 10px;
 	text-decoration: none;
+}
+
+.form_btn {
+	display: block;
+	padding: 20px 80px;
+	width: 100%;
+	background-color: #9747FF;
+	border-color: #9747FF;
+	border-radius: 10px;
+	font-size: 16px;
+	margin: 10px 40px 20px 40px;
+	max-width: 520px;
+	opacity: 0.3;
+	color: #fff;
+	font-family: 'Inter', sans-serif;
+	gap: 10px;
+	text-decoration: none;
+	transition: background-color: .5s;
+}
+
+.form_btn:hover {
+	background-color: #9747FF;
+}
+
+.form_btn:active {
+	background-color: #9747FF;
 }
 
 .pop_up1 {
@@ -400,9 +426,10 @@ input2:focus {
 	margin-right: 20px;
 	width: 250px;
 	height: 60px;
+	margin-bottom: 20px;
 }
 
-.name7 {
+/*.name7 {
 	position: relative;
 	color: #B9B9B9;
 	font-weight: 500;
@@ -413,15 +440,16 @@ input2:focus {
 	gap: 10px;
 	padding-left: 20px;
 	padding-top: 5px;
-}
+}*/
 
 .ram8 {
 	margin-right: 40px;
 	width: 250px;
 	height: 60px;
+	margin-bottom: 20px;
 }
 
-.name8 {
+/*.name8 {
 	position: relative;
 	color: #B9B9B9;
 	font-weight: 500;
@@ -432,23 +460,23 @@ input2:focus {
 	gap: 10px;
 	padding-left: 20px;
 	padding-top: 5px;
-}
+}*/
 
-.ram9 {
+/*.ram9 {
 	background: #9747FF;
 	color: #9747FF;
 	opacity: 0.3;
 	border-style: solid;
 	border-radius: 10px;
 	margin: 30px 40px;
-}
+}*/
 
-.qw2 {
+/*.qw2 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding: 20px 236px;
-}
+}*/
 
 .name9 {
 	color: #fff;
