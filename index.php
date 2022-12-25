@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
 	<script src="js/inputmask.min.js"></script>
-	<title>Фотогалерея</title>
+	<title>Р¤РѕС‚РѕРіР°Р»РµСЂРµСЏ</title>
 	
 </head>
 
@@ -25,8 +25,8 @@
 					
 						<a href="#" onclick="window.close()" class="pop_up_close">&#10006</a>
 						<div class="nav">
-							<a class="nav-item1" href="#" >Регистрация</a>
-							<a class="nav-item2" href="#" >Авторизация</a>
+							<a class="nav-item1" href="#" >Р РµРіРёСЃС‚СЂР°С†РёСЏ</a>
+							<a class="nav-item2" href="#" >РђРІС‚РѕСЂРёР·Р°С†РёСЏ</a>
 						</div>
 					
 				</div>
@@ -38,8 +38,8 @@
 						<div class="registration_name">
 							<div class="ram1">
 								<div class="qw">
-									<input type="text" class="input" id="name" placeholder="Имя" name="name" autocomplete="off">
-									<p class="name">Ваше имя</p>
+									<input type="text" class="input" id="name" placeholder="Р’Р°С€Рµ РёРјСЏЛ™" name="name" autocomplete="off">
+									<p class="name">Р’Р°С€Рµ РёРјСЏ</p>
 								</div>
 							</div>
 						</div>
@@ -58,8 +58,8 @@
 							<div class="str">
 
 								<div class="ram3">
-									<input type="text" class="input1" id="phone" placeholder="Мобильный телефон" name="phone" autocomplete="off">
-									<p class="name2">Мобильный телефон</p>
+									<input type="text" class="input1" id="phone" placeholder="РњРѕР±РёР»СЊРЅС‹Р№ С‚РµР»РµС„РѕРЅ" name="phone" autocomplete="off">
+									<p class="name2">РњРѕР±РёР»СЊРЅС‹Р№ С‚РµР»РµС„РѕРЅ</p>
 								</div>
 
 							</div>
@@ -67,14 +67,14 @@
 							<div class="ram45">
 							<div class="str">
 								<div class="ram2">
-									<input type="text" class="input2" placeholder="Пароль" autocomplete="off">
-									<p class="name3">Пароль</p>
+									<input type="text" class="input2" placeholder="РџР°СЂРѕР»СЊ" autocomplete="off">
+									<p class="name3">РџР°СЂРѕР»СЊ</p>
 								</div>
 							</div>
 							<div class="str">
 								<div class="ram3">
-									<input type="text" class="input2" placeholder="Повторите пароль" autocomplete="off">
-									<p class="name3">Повторите пароль</p>
+									<input type="text" class="input2" placeholder="РџРѕРІС‚РѕСЂРёС‚Рµ РїР°СЂРѕР»СЊ" autocomplete="off">
+									<p class="name3">РџРѕРІС‚РѕСЂРёС‚Рµ РїР°СЂРѕР»СЊ</p>
 								</div>
 							</div>
 							</div>
@@ -87,12 +87,12 @@
                         			    <label class="agree__checkbox__label">
                         			        <input type="checkbox" class="agree__checkbox">
                         			    </label>
-                        			    <p class="agree__text">Согласен на обработку <a href=# class="agree__link">персональных данных</a></p>
+                        			    <p class="agree__text">РЎРѕРіР»Р°СЃРµРЅ РЅР° РѕР±СЂР°Р±РѕС‚РєСѓ <a href=# class="agree__link">РѕР±СЂР°Р±РѕС‚РєСѓ РїРµСЂСЃРѕРЅР°Р»СЊРЅС‹С… РґР°РЅРЅС‹С…</a></p>
          			               </div>
 
 						<div class="ram6">
 							<div class="qw1">
-								<button class="form_btn" type="submit">Зарегистрироваться</button>
+								<button class="form_btn" type="submit">Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ</button>
 							</div>
 						</div>
 						<div class="info">
@@ -102,7 +102,7 @@
 							<rect x="9" y="12" width="2" height="2" rx="1" fill="#838383"/>
 						</svg></div>
                              
-                            			<p class="info__text">Все поля обязательны для заполнения</p>
+                            			<p class="info__text">Р’СЃРµ РїРѕР»СЏ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹ РґР»СЏ Р·Р°РїРѕР»РЅРµРЅРёСЏ</p>
                         			</div>
 					</div>
 				</form>
@@ -133,8 +133,8 @@
 						<a href="#" class="pop_up_close1">&#10006</a>
 
 						<div class="nav1">
-							<a class="nav-item3" href="#" >Регистрация</a>
-							<a class="nav-item4" href="#" >Авторизация</a>
+							<a class="nav-item3" href="#" >Р РµРіРёСЃС‚СЂР°С†РёСЏ</a>
+							<a class="nav-item4" href="#" >РђРІС‚РѕСЂРёР·Р°С†РёСЏ</a>
 						</div>
 				</div>
 			</div>
@@ -152,8 +152,8 @@
 									<p class="name7">Email</p>
 								</div>
 								<div class="ram8">
-									<input type="text" class="input2" placeholder="Пароль" autocomplete="off">
-									<p class="name8">Пароль</p>
+									<input type="text" class="input2" placeholder="РџР°СЂРѕР»СЊ" autocomplete="off">
+									<p class="name8">РџР°СЂРѕР»СЊ</p>
 								</div>
 							</div>
 							</div>
@@ -161,7 +161,7 @@
 
 						<div class="ram9">
 							<div class="qw2">
-								<button class="form_btn" type="submit">Войти</button>
+								<button class="form_btn" type="submit">Р’С…РѕРґ</button>
 							</div>
 						</div>
 						<div class="info">
@@ -171,7 +171,7 @@
 							<rect x="9" y="12" width="2" height="2" rx="1" fill="#838383"/>
 						</svg></div>
                              
-                            			<p class="info__text">Все поля обязательны для заполнения</p>
+                            			<p class="info__text">Р’СЃРµ РїРѕР»СЏ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹ РґР»СЏ Р·Р°РїРѕР»РЅРµРЅРёСЏ</p>
                         			</div>
 					</div>
 				</form>
@@ -199,8 +199,8 @@
 					<img src="img/logo.png" alt="">
 				</div>
 				<div class="nav1">
-					<a class="nav-item" href="#reg" >Регистрация</a>
-					<a class="nav-item" href="#inp" >Вход</a>
+					<a class="nav-item" href="#reg" >Р РµРіРёСЃС‚СЂР°С†РёСЏ</a>
+					<a class="nav-item" href="#inp" >Р’С…РѕРґ</a>
 				</div>
 			</div>
 			<div class="hr"></div>
@@ -209,10 +209,10 @@
 
 	<div class="container">
 		<div class="mes">
-			<a class="text1">Июль, 2022</a>
+			<a class="text1">ДЊЕЈГ«Гј, 2022</a>
 			<div class="foto">
 				<a href=# class="pl">+</a>
-				<a href="#" class="bth">Добавить фото</a>
+				<a href="#" class="bth">Р”РѕР±Р°РІРёС‚СЊ С„РѕС‚Рѕ</a>
 			</div>
 		</div>
 	</div>
@@ -222,7 +222,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">July. Summer butterflies.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3.png">
@@ -231,7 +231,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Summer butterflies.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (1).png">
@@ -240,7 +240,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Cape Point peninsula South Africa</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (2).png">
@@ -249,7 +249,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Antelope Canyon</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (3).png">
@@ -259,7 +259,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Waves crashing in Brittany, France</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (4).png">
@@ -268,7 +268,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">After the rain.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (5).png">
@@ -277,7 +277,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Milkyway trail over death valley</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (6).png">
@@ -286,7 +286,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Nature</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (7).png">
@@ -296,7 +296,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">July. Summer butterflies.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (8).png">
@@ -305,7 +305,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">Wheat period.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (9).png">
@@ -314,7 +314,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">A baby jumping spider on yellow petals</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (10).png">
@@ -323,7 +323,7 @@
 				<div class="card">
 					<div class="text">
 						<a class="card__title">July. Summer butterflies.</a>
-						<p class="card__date">Добавлено 15 августа</p>
+						<p class="card__date">Р”РѕР±Р°РІР»РµРЅРѕ 15 Р°РІРіСѓСЃС‚Р°</p>
 					</div>
 					<div class="card-image">
 						<img class="card-img" src="img/image 3 (11).png">
@@ -336,14 +336,14 @@
 	<div class="pokaz">
 		<div class="qw">
 			<img class="imgv" src="img/Vector 1.png">
-			<a href=# class="show_more">Показать еще</a>
+			<a href=# class="show_more">РџРѕРєР°Р·Р°С‚СЊ РµС‰Рµ</a>
 		</div>
 	</div>
 	<div class="hr1"></div>
 		<div class="niz">
 			<a href="#" class="nav-item5">info@gmail.com</a>
 
-			<a href="#" class="nav-item6">Информация о разработчике</a>
+			<a href="#" class="nav-item6">РРЅС„РѕСЂРјР°С†РёСЏ Рѕ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРµ</a>
 		 
 		</div>
 	</div>
